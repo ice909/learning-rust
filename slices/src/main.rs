@@ -20,6 +20,14 @@ fn main() {
     // 获取第一个单词的长度
     let len = first_word(s);
     // 截取第一个单词
+    // 字符串 slice（string slice）是 String 中一部分值的引用，它看起来像这样：
     let first_word = &s[..len];
     println!("The first word is: {}", first_word);
+    // slice截取全部字符串
+    let all_word = &s[..];
+    println!("The all word is: {}", all_word);
+    // slice截取字符串的中间几个字符
+    let mid_word = &s[1..4];
+    println!("The mid word is: {}", mid_word);
+
 }
