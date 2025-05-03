@@ -13,6 +13,7 @@
 - what-is-ownership: 展示 Rust 的所有权系统核心概念
 - references-and-borrowing: 引用和借用的使用方法
 - slices: 字符串和其他类型的切片示例
+- structs: 使用结构体组织相关联的数据
 
 ## 如何运行
 
