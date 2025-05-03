@@ -15,6 +15,7 @@
 - slices: 字符串和其他类型的切片示例
 - structs: 使用结构体组织相关联的数据
 - enums: 枚举和模式匹配
+- defining-modules: 包、crates、模块、路径
 
 ## 如何运行
 
