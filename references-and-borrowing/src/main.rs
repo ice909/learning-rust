@@ -11,7 +11,7 @@ fn main() {
     // let s4 = &mut s2;// 不能同时有两个可变引用
     
 
-    println!("{}, {}", s3, s4);
+    println!("{}", s3);
 }
 
 fn calculate_length(s: &String) -> usize {
