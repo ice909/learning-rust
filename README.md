@@ -17,6 +17,7 @@
 - enums: 枚举和模式匹配
 - defining-modules: 包、crates、模块、路径
 - common-collections: 常见集合
+- error-handing: 错误处理
 
 ## 如何运行
 
