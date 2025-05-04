@@ -18,6 +18,7 @@
 - defining-modules: 包、crates、模块、路径
 - common-collections: 常见集合
 - error-handing: 错误处理
+- generics: 泛型，trait
 
 ## 如何运行
 
